@@ -67,6 +67,8 @@ can.bind("<ButtonRelease-1>", on_release)
 l_frame.grid()
 root.mainloop()
 
+# I know there can be many errors or issues, please bare with me as I am trying my best.
+# Just need the right guidance, as the place I work , no one has Idea even this can happen..:) :)
 
 
 
